@@ -10,7 +10,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #343a40;
+  background-color: #8963ac;
   color: white;
   padding: 1rem;
 }
@@ -23,7 +23,7 @@ body {
   margin: 5px 0;
 }
 .main-sidebar a:hover {
-  background-color: #495057;
+  background-color: #795799;
 }
 
 /* Header */

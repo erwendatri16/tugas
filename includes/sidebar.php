@@ -16,5 +16,9 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <?php if ($current_page != 'pengaturan.php'): ?>
       <a href="pengaturan.php"><i class="fa-solid fa-gear"></i> Pengaturan</a>
     <?php endif; ?>
+
+    <?php if ($current_page != 'profil.php'): ?>
+      <a href="profil.php"><i class="fa-solid fa-gear"></i> Profil</a>
+    <?php endif; ?>
   </nav>
 </aside>
