@@ -1,5 +1,5 @@
 <footer class="text-center mt-4">
-  <p>&copy; <?= date('Y'); ?> AdminLTE PHP Version | Dibuat oleh Kamu 😎</p>
+  <p>&copy; <?= date('Y'); ?> Admin Version | Dibuat oleh Erwenda Tri Hapsari 😎</p>
 </footer>
 
 <!-- Bootstrap JS -->
